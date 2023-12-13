@@ -176,7 +176,7 @@ export const projects = [
         theme: 'btn-back-red',
         name: 'Social Media App',
         description: 'Built a complete clone of Instagram, allowing users to share photos and connect with friends in a familiar social media environment.',
-        link: 'https://social-media-app-smoky-gamma.vercel.app',
+        link: 'https://social-media-app-hqby-tarun-zenitsu.vercel.app',
     },
     {
         iconUrl: summiz,
