@@ -168,7 +168,7 @@ export const socialLinks = [
   {
     name: "LinkedIn",
     iconUrl: linkedin,
-    link: "https://www.linkedin.com/in/tarunakanta-kumbhar-5775a4201/",
+    link: "https://www.linkedin.com",
   },
 ];
 
