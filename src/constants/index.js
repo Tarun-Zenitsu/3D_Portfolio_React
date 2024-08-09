@@ -147,7 +147,7 @@ export const experiences = [
   },
   {
     title: "Full stack Developer",
-    company_name: "Techies Infotech Pvt Ltd.",
+    company_name: "Freelancer",
     icon: webdev,
     iconBg: "#383E56",
     date: " May 2022 - Present",
